@@ -129,6 +129,30 @@ iface = gr.Interface(
 
 iface.launch(share=True)
 ```
+
+### 📊 Expected Output Screenshots
+
+**first code cell**
+
+https://drive.google.com/file/d/1NDOhkGHLsrOehoZlpDmi6NUiRALRX6c4/view?usp=drive_link
+
+**second code cell**
+
+https://drive.google.com/file/d/1_lR5oYfXN8_IWEpiXCIbIC4S-BLMX07V/view?usp=sharing
+
+**third code cell**
+
+https://drive.google.com/file/d/1xqk7agndMQ4Ax_vfspvVXgkQ41SsuRB5/view?usp=sharing
+
+**fourth code cell**
+
+https://drive.google.com/file/d/1exNIB_bP96NU2gptEUgZJN6nR9IauomS/view?usp=sharing
+
+**Final output in web**
+
+https://drive.google.com/file/d/15AO6weYvwS9Cbez9kMetOQpkSWeov6jj/view?usp=sharing
+
+
 ---
 ### 📬 Contact
 For workshop resources or support:
@@ -137,9 +161,17 @@ For workshop resources or support:
 
 🌐 www.darion.in
 ---
-### 📊 Expected Output Screenshots
 
-**first code cell**
+---
+### Organizers
 
-![Alt text]((https://drive.google.com/file/d/1NDOhkGHLsrOehoZlpDmi6NUiRALRX6c4/view?usp=drive_link))
+Team darion 
 
+### For any doubts
+
+Contact to 
+
+1.Muneer
+
+2.Jagadeesh
+---
