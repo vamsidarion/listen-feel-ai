@@ -141,5 +141,5 @@ For workshop resources or support:
 
 **first code cell**
 
-![Alt text]( [https://drive.google.com/uc?export=view&id=1aBcDefGhIjKlmnO](https://drive.google.com/file/d/1NDOhkGHLsrOehoZlpDmi6NUiRALRX6c4/view?usp=drive_link))
+![Alt text]((https://drive.google.com/file/d/1NDOhkGHLsrOehoZlpDmi6NUiRALRX6c4/view?usp=drive_link))
 
